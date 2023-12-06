@@ -52,11 +52,12 @@
 
 
 
-### ------------------------------------------------------------------------------------------------
+
 
 ![Screenshot_1](https://github.com/MDIVAS/ZOHO-POWERPLAN/assets/127883304/de021e50-6098-42f2-86d1-442b0acabe3a)
 
- ### ------------------------------------------------------------------------------------------------
+
+### ------------------------------------------------------------------------------------------------
 
 
 
@@ -82,8 +83,8 @@ AND ANOTHER GPU(ZOHO GPU)
 
 
 
-### complaints before using powerplan
-### ------------------------------------------------------------------------------------------------
+## COMPLAINTS BEFORE USING ZOHO POWERPLAN 
+
 ![Screenshot_6](https://github.com/MDIVAS/ZOHO-POWERPLAN/assets/127883304/ce6144d4-61d2-4144-8c0c-7e95b6b6f9a4)
 ### ------------------------------------------------------------------------------------------------
 PEOPLE OFTEN COMPLAINT THAT SOME ZOHO APPS LIKE CLIQ AND CRM USES HIGH CPU AND PEOPLE ARE NOT ABLE TO DO THEIR WORK SMOOTHLY 
