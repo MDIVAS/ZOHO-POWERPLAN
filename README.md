@@ -1,8 +1,9 @@
 <br/>
 <p align="center">
   <a href="https://github.com/MDIVAS/ZOHO-POWERPLAN">
-    <img src="https://w7.pngwing.com/pngs/3/378/png-transparent-laptop-battery-charger-power-management-powercfg-icon-battery-material-png-material-electronics-computer.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/MDIVAS/ZOHO-POWERPLAN/assets/127883304/8f9edff8-4cd5-4aa0-81bd-6190e09b5226" alt="Logo" width="960" height="540">
   </a>
+
 
   <h3 align="center">ZOHO POWERPLAN FOR WINDOWS</h3>
 
