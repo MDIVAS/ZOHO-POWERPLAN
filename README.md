@@ -58,7 +58,7 @@
 ![Screenshot_1](https://github.com/MDIVAS/ZOHO-POWERPLAN/assets/127883304/de021e50-6098-42f2-86d1-442b0acabe3a)
 
 
-### ------------------------------------------------------------------------------------------------
+
 
 
 
@@ -86,7 +86,7 @@
 ## COMPLAINTS BEFORE USING ZOHO POWERPLAN 
 
 ![Screenshot_6](https://github.com/MDIVAS/ZOHO-POWERPLAN/assets/127883304/ce6144d4-61d2-4144-8c0c-7e95b6b6f9a4)
-### ------------------------------------------------------------------------------------------------
+
 PEOPLE OFTEN COMPLAINT THAT SOME ZOHO APPS LIKE CLIQ AND CRM USES HIGH CPU AND PEOPLE ARE NOT ABLE TO DO THEIR WORK SMOOTHLY 
 
 SO WE BROUGHT SOME SOLUTIONS FOR IT 
@@ -99,23 +99,23 @@ SO WE BROUGHT SOME SOLUTIONS FOR IT
 
 BUILT  WITH https://forums.guru3d.com/threads/windows-power-plan-settings-explorer-utility.416058/
 
-### ------------------------------------------------------------------------------------------------
+
 
 ![Screenshot_3](https://github.com/MDIVAS/ZOHO-POWERPLAN/assets/127883304/c6bdd0d3-d78e-4021-9ce0-d4a8e6adfc38)
 
-### ------------------------------------------------------------------------------------------------
+
 
 ![Screenshot_4](https://github.com/MDIVAS/ZOHO-POWERPLAN/assets/127883304/41515ce4-95c4-4a67-8e4f-2c2139dcc9d7)
 
 
-### ------------------------------------------------------------------------------------------------
+
 
 
 ![Screenshot_7](https://github.com/MDIVAS/ZOHO-POWERPLAN/assets/127883304/290c5043-63b3-4cd3-a7b0-c45becae0c17)
 
 
 
-### ------------------------------------------------------------------------------------------------
+
 
 
 
@@ -124,9 +124,9 @@ BUILT  WITH https://forums.guru3d.com/threads/windows-power-plan-settings-explor
 HOW TO INSTALL THIS POWER PLAN AND USE IT ?
 
 ### Prerequisites
-### ------------------------------------------------------------------------------------------------
+
 ![Screenshot_2](https://github.com/MDIVAS/ZOHO-POWERPLAN/assets/127883304/8df3fb1e-1a86-4797-930f-960abe4e43af)
-### ------------------------------------------------------------------------------------------------
+
 
 
 
@@ -148,18 +148,18 @@ THEN GO TO CONTROL PANNEL / POWER OPTION
 
 CHOOSE THE POWERPLAN YOU WANT THAT'S IT ENJOY :)
 
-### ------------------------------------------------------------------------------------------------
+
 
 ![Screenshot_9](https://github.com/MDIVAS/ZOHO-POWERPLAN/assets/127883304/00b5ea01-d5a9-4516-9e31-6eec60a0cdc1)
 
-### ------------------------------------------------------------------------------------------------
+
 
 ###SCREENSHOTS
 
-### ------------------------------------------------------------------------------------------------
+
 ![Screenshot_5](https://github.com/MDIVAS/ZOHO-POWERPLAN/assets/127883304/f3ffd4d5-1a10-4421-8022-6e04de5aaae2)
 
-### ------------------------------------------------------------------------------------------------
+
 
 
 
@@ -167,7 +167,7 @@ CHOOSE THE POWERPLAN YOU WANT THAT'S IT ENJOY :)
 ![Screenshot_8](https://github.com/MDIVAS/ZOHO-POWERPLAN/assets/127883304/c27d83a3-4954-4b00-a4c1-feff101c04b4)
 
 
-### ------------------------------------------------------------------------------------------------
+
 
 
 
